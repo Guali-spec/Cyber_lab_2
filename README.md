@@ -74,7 +74,7 @@ Unauthorized scanning of systems without permission may be illegal.
 
 The complete lab report is available here:
 
-[Download the PDF Report](./Network_Scanning_Nmap_Report.pdf)
+[Download the PDF Report](./Cyberlab2.pdf)
 
 ---
 
